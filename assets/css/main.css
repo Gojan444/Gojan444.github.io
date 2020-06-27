@@ -2148,6 +2148,7 @@ body.is-preload #wrapper {
   text-align: center;
   line-height: 2.75em;
   font-size: 1.5em;
+  transform: rotate(0);
   z-index: 1;
   -moz-transition: width 0.15s ease-in-out, padding-right 0.15s ease-in-out;
   -webkit-transition: width 0.15s ease-in-out, padding-right 0.15s ease-in-out;
