@@ -206,11 +206,11 @@ textarea {
 }
 
 .row > .col-1 {
-  width: 8.33333%;
+  width: 8%;
 }
 
 .row > .off-1 {
-  margin-left: 8.33333%;
+  margin-left: 8%;
 }
 
 .row > .col-2 {
@@ -1412,11 +1412,11 @@ body,
 input,
 textarea,
 select {
-  font-family: "arial", sans-serif;
-  font-weight: 300;
+  font-family: Helvetica, Georgia, Times, serif, sans-serif;
+  font-weight: 400;
   color: #000000;
-  font-size: 20pt;
-  line-height: 1.75em;
+  font-size: 22pt;
+  line-height: 2em;
 }
 
 @media screen and (max-width: 1680px) {
