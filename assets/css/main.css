@@ -1381,6 +1381,24 @@ html {
   box-sizing: border-box;
 }
 
+.container {
+  position: relative;
+  width: 40%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 10%;
+  height: auto;
+  transition: 0.5s ease;
+  backface-visibility: hidden;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
 *,
 *:before,
 *:after {
