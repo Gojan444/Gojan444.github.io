@@ -1894,12 +1894,25 @@ ul.actions li:first-child {
   display: none;
 }
 
+#siguiente {
+  text-align: right;
+  height: 4.25em;
+  cursor: default;
+}
+
 /* Nav */
 
 #nav {
   text-align: center;
   height: 4.25em;
   cursor: default;
+}
+.icon {
+  width: 1em;
+  height: 1em;
+  line-height: 1em;
+  font-size: 2.7em;
+  margin: 0 0.25em 0 0.25em;
 }
 
 #nav a {
